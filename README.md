@@ -2,7 +2,9 @@
 
 A Docker image for data containers, for use in the [Deis](http://deis.io) open source PaaS.
 
-[**deis/data @ Docker Index**](https://index.docker.io/u/deis/data/)
+[![image](https://d207aa93qlcgug.cloudfront.net/img/icons/framed-icon-checked-repository.svg)](https://index.docker.io/u/deis/data/)
+
+[**Trusted Build**](https://index.docker.io/u/deis/data/)
 
 This Docker image is based on the trusted build [tianon/true](https://index.docker.io/u/tianon/true/).
 
