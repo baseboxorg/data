@@ -1,9 +1,9 @@
 build:
-	docker build -t deis/data .
+	docker build -t builtdock/data .
 
 run:
-	docker run deis/data
+	docker run builtdock/data
 	exit 0
 
 clean:
-	-docker rmi deis/data
+	-docker rmi builtdock/data
